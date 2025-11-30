@@ -1,0 +1,7 @@
+{
+  "name": "에겐 vs 테토 - 얼굴형 분석기",
+  "description": "당신의 얼굴형은 매끈한 달걀형 '에겐'인가요, 아니면 각이 살아있는 '테토'인가요? AI가 분석해드립니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
